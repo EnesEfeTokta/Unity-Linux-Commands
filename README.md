@@ -1,4 +1,4 @@
-![unity](https://github.com/EnesEfeTokta/Unity-Linux-Commands/blob/main/Images/LinuxCommandsForUnity.png "Unity Linux")
+![unity](https://github.com/EnesEfeTokta/Unity-Linux-Commands/blob/main/Images/LinuxCommandForUnity.png "Unity Linux")
 
 # Unity Geliştiricileri İçin Kullanışlı Linux Komutları
 
